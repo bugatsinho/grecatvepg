@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Rytec" generator-info-url="https://forums.openpli.org" generator-info-partner="bStream-Panel">
+   <channel id="GrecaTV">
+    <display-name lang="el">Greca TV</display-name>
+  </channel>
+  <programme start="20240906030000 +0000" stop="20240906030225 +0000" channel="GrecaTV">
+    <title lang="el">00.Intro V2.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906030225 +0000" stop="20240906030231 +0000" channel="GrecaTV">
+    <title lang="el">01.toon arxi.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906030231 +0000" stop="20240906030237 +0000" channel="GrecaTV">
+    <title lang="el">4.VIDDYOZE-Abstract Title.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906030237 +0000" stop="20240906030248 +0000" channel="GrecaTV">
+    <title lang="el">3.GRECA News-News Globe.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906030248 +0000" stop="20240906034719 +0000" channel="GrecaTV">
+    <title lang="el">05 09 2024 ACTION 24.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906034719 +0000" stop="20240906034720 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906034720 +0000" stop="20240906044250 +0000" channel="GrecaTV">
+    <title lang="el">Κεντρικό δελτίο ειδήσεων 05 09 2024 OPEN TV.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044250 +0000" stop="20240906044252 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044252 +0000" stop="20240906044359 +0000" channel="GrecaTV">
+    <title lang="el">Eastside Ad Sales Team revised April 2024.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044359 +0000" stop="20240906044426 +0000" channel="GrecaTV">
+    <title lang="el">Halvas Olympos H Amygdalo-Vanilla-Cocoa 27sec WEB 022824 Bill Fatsis.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044426 +0000" stop="20240906044452 +0000" channel="GrecaTV">
+    <title lang="el">Superior Auto video.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044452 +0000" stop="20240906044508 +0000" channel="GrecaTV">
+    <title lang="el">Freedom for Addiction Aurora(Final)-v2.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044508 +0000" stop="20240906044538 +0000" channel="GrecaTV">
+    <title lang="el">CLA-For Women.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044538 +0000" stop="20240906044608 +0000" channel="GrecaTV">
+    <title lang="el">HCLA Greek Community Toronto G-City for Senior.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044608 +0000" stop="20240906044702 +0000" channel="GrecaTV">
+    <title lang="el">Aug 30 2024.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044702 +0000" stop="20240906044717 +0000" channel="GrecaTV">
+    <title lang="el">Night.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044717 +0000" stop="20240906044734 +0000" channel="GrecaTV">
+    <title lang="el">Colorful w text and KF music.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044734 +0000" stop="20240906044755 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906044755 +0000" stop="20240906055248 +0000" channel="GrecaTV">
+    <title lang="el">Αν. Μπάμπαλη & Αλ. Χαριζάνης μας διασκεδάζουν με μουσική και ακραίες ιστορίες Γκαράζ ACTION 24.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055248 +0000" stop="20240906055302 +0000" channel="GrecaTV">
+    <title lang="el">38.only logo.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055302 +0000" stop="20240906055307 +0000" channel="GrecaTV">
+    <title lang="el">68.Greca Unites Greeks Worldwide.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055307 +0000" stop="20240906055333 +0000" channel="GrecaTV">
+    <title lang="el">Superior Auto video.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055333 +0000" stop="20240906055438 +0000" channel="GrecaTV">
+    <title lang="el">Christina 60.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055438 +0000" stop="20240906055514 +0000" channel="GrecaTV">
+    <title lang="el">v3.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055514 +0000" stop="20240906055530 +0000" channel="GrecaTV">
+    <title lang="el">Freedom for Addiction Aurora(Final)-v2.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055530 +0000" stop="20240906055608 +0000" channel="GrecaTV">
+    <title lang="el">The Greek Grill Restaurant.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055608 +0000" stop="20240906055712 +0000" channel="GrecaTV">
+    <title lang="el">TVO AD.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055712 +0000" stop="20240906055713 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055713 +0000" stop="20240906055724 +0000" channel="GrecaTV">
+    <title lang="el">120.Presents.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906055724 +0000" stop="20240906061106 +0000" channel="GrecaTV">
+    <title lang="el">ΣΥΡΙΖΑ Το παρασκήνιο της συνεδρίασης της Εκτελεστικής Γραμματείας ACTION 24.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906061106 +0000" stop="20240906061559 +0000" channel="GrecaTV">
+    <title lang="el">Εμφύλιος στον ΣΥΡΙΖΑ Βγήκαν τα μαχαίρια εν όψει Κεντρικής Επιτροπής Βραδινό Δελτίο 04 09 2024.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906061559 +0000" stop="20240906062559 +0000" channel="GrecaTV">
+    <title lang="el">Σε αδιέξοδο ο ΣΥΡΙΖΑ Ο Κασσελάκης παραπέμπει Πολάκη και 87 στο συνέδριο ACTION 24.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906062559 +0000" stop="20240906063647 +0000" channel="GrecaTV">
+    <title lang="el">Διέξοδος για τον ΣΥΡΙΖΑ να αποχωρήσει ο Κασσελάκης.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906063647 +0000" stop="20240906063649 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906063649 +0000" stop="20240906063752 +0000" channel="GrecaTV">
+    <title lang="el">TVO AD.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906063752 +0000" stop="20240906063952 +0000" channel="GrecaTV">
+    <title lang="el">OLD MILL AD draft1.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906063952 +0000" stop="20240906064000 +0000" channel="GrecaTV">
+    <title lang="el">44.Logo pop-blue.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906064000 +0000" stop="20240906064002 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906064002 +0000" stop="20240906064022 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906064022 +0000" stop="20240906064407 +0000" channel="GrecaTV">
+    <title lang="el">Καζαντζίδης, Θεοδωράκης, Κακογιάννης.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906064407 +0000" stop="20240906064656 +0000" channel="GrecaTV">
+    <title lang="el">Γυρίζω από τη νύχτα.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906064656 +0000" stop="20240906065332 +0000" channel="GrecaTV">
+    <title lang="el">Ο ΛΕΩΝΙΔΑΣ ΒΕΛΗΣ ΣΤΟ ΣΤΟΥΝΤΙΟ ΜΕ ΤΟΝ Χ.ΠΑΠΑΔΟΠΟΥΛΟ.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906065332 +0000" stop="20240906065737 +0000" channel="GrecaTV">
+    <title lang="el">Λεωνίδας Βελής.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906065737 +0000" stop="20240906070145 +0000" channel="GrecaTV">
+    <title lang="el">Λεωνίδας Βελής ''Γεννήθηκα σε δύσκολους καιρούς''.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906070145 +0000" stop="20240906070147 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906070147 +0000" stop="20240906070158 +0000" channel="GrecaTV">
+    <title lang="el">120.Presents.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906070158 +0000" stop="20240906071630 +0000" channel="GrecaTV">
+    <title lang="el">Τουρκία Στην Άγκυρα ο Σίσι για να επισφραγίσει τη συμφιλίωση με τον Ερντογάν & Νετανιάχου για Χαμάς.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906071630 +0000" stop="20240906072833 +0000" channel="GrecaTV">
+    <title lang="el">Νέο θρίλερ με το καλώδιο ηλεκτρικής διασύνδεσης της Κύπρου με την Ελλάδα–Το επανεξετάζει η Λευκωσία.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906072833 +0000" stop="20240906074242 +0000" channel="GrecaTV">
+    <title lang="el">Η Κύπρος βάζει φρένο στο καλώδιο ηλεκτρικής σύνδεσης Κύπρου-Ελλάδας.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906074242 +0000" stop="20240906074631 +0000" channel="GrecaTV">
+    <title lang="el">Τελευταία εξέλιξη Οι Τούρκοι ετοιμάζουν ντοκιμαντέρ για τις θηριωδίες των Ελλήνων Live You.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906074631 +0000" stop="20240906075020 +0000" channel="GrecaTV">
+    <title lang="el">ΗΠΑ Καταγγέλλουν Ρωσική παρέμβαση στις εκλογές και ετοιμάζουν κυρώσεις 04 09 2024.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906075020 +0000" stop="20240906075022 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906075022 +0000" stop="20240906075052 +0000" channel="GrecaTV">
+    <title lang="el">CLA-For Women.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906075052 +0000" stop="20240906075122 +0000" channel="GrecaTV">
+    <title lang="el">HCLA Greek Community Toronto G-City for Senior.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906075122 +0000" stop="20240906075216 +0000" channel="GrecaTV">
+    <title lang="el">Aug 30 2024.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906075216 +0000" stop="20240906075242 +0000" channel="GrecaTV">
+    <title lang="el">Superior Auto video.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906075242 +0000" stop="20240906075347 +0000" channel="GrecaTV">
+    <title lang="el">Christina 60.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906075347 +0000" stop="20240906075423 +0000" channel="GrecaTV">
+    <title lang="el">v3.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906075423 +0000" stop="20240906075502 +0000" channel="GrecaTV">
+    <title lang="el">The Greek Grill Restaurant.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906075502 +0000" stop="20240906075522 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906075522 +0000" stop="20240906080909 +0000" channel="GrecaTV">
+    <title lang="el"> ΕΝ ΧΟΡΔΑΙΣ & ΟΡΓΑΝΟΙΣ {Η Μεγάλη του Μάρκου Σχολή}.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906080909 +0000" stop="20240906081653 +0000" channel="GrecaTV">
+    <title lang="el">Μιλτιάδης Πασχαλίδης Προσκύνημα & γεια σου χαρά σου Βενετιά.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906081653 +0000" stop="20240906081658 +0000" channel="GrecaTV">
+    <title lang="el">Hello Greca viewers.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906081658 +0000" stop="20240906081706 +0000" channel="GrecaTV">
+    <title lang="el">44.Logo pop-blue.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906081706 +0000" stop="20240906081707 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906081707 +0000" stop="20240906081734 +0000" channel="GrecaTV">
+    <title lang="el">Halvas Olympos H Amygdalo-Vanilla-Cocoa 27sec WEB 022824 Bill Fatsis.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906081734 +0000" stop="20240906081750 +0000" channel="GrecaTV">
+    <title lang="el">Freedom for Addiction Aurora(Final)-v2.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906081750 +0000" stop="20240906081950 +0000" channel="GrecaTV">
+    <title lang="el">OLD MILL AD draft1.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906081950 +0000" stop="20240906082000 +0000" channel="GrecaTV">
+    <title lang="el">120.Presents.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906082000 +0000" stop="20240906084048 +0000" channel="GrecaTV">
+    <title lang="el"> Georgia rally full speech FOX 5 News.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906084048 +0000" stop="20240906084750 +0000" channel="GrecaTV">
+    <title lang="el">'Let him die' Trump's nephew shares what he says Trump told him when he asked for help with his son.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906084750 +0000" stop="20240906084904 +0000" channel="GrecaTV">
+    <title lang="el">Fred Trump III says Kamala Harris is “definitely a threat” to Donald Trump.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906084904 +0000" stop="20240906085718 +0000" channel="GrecaTV">
+    <title lang="el">Kamala gets KEY surprise endorsement.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906085718 +0000" stop="20240906085719 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906085719 +0000" stop="20240906085757 +0000" channel="GrecaTV">
+    <title lang="el">The Greek Grill Restaurant.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906085757 +0000" stop="20240906085823 +0000" channel="GrecaTV">
+    <title lang="el">Parthenon Murbles_Latest Version.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906085823 +0000" stop="20240906085833 +0000" channel="GrecaTV">
+    <title lang="el">119.For Greeks worldwide-Abstract Gold Promo.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906085833 +0000" stop="20240906085838 +0000" channel="GrecaTV">
+    <title lang="el">76.Your Greca TV Glass Title.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906085838 +0000" stop="20240906085843 +0000" channel="GrecaTV">
+    <title lang="el">Copy (3).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906085843 +0000" stop="20240906085853 +0000" channel="GrecaTV">
+    <title lang="el">120.Presents.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906085853 +0000" stop="20240906085855 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906085855 +0000" stop="20240906090746 +0000" channel="GrecaTV">
+    <title lang="el">The Lowest Cost Airline You Can Imagine The Carol Burnett Show Clip.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906090746 +0000" stop="20240906091216 +0000" channel="GrecaTV">
+    <title lang="el">The Weirdest Orchestra ft. Tim Conway & Dick Van Dyke The Carol Burnett Show Clip.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906091216 +0000" stop="20240906091217 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906091217 +0000" stop="20240906091325 +0000" channel="GrecaTV">
+    <title lang="el">Eastside Ad Sales Team revised April 2024.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906091325 +0000" stop="20240906091330 +0000" channel="GrecaTV">
+    <title lang="el">68.Greca Unites Greeks Worldwide.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906091330 +0000" stop="20240906091331 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906091331 +0000" stop="20240906091342 +0000" channel="GrecaTV">
+    <title lang="el">120.Presents.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906091342 +0000" stop="20240906110049 +0000" channel="GrecaTV">
+    <title lang="el">Εκπομπή 15.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906110049 +0000" stop="20240906110051 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906110051 +0000" stop="20240906110101 +0000" channel="GrecaTV">
+    <title lang="el">120.Presents.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906110101 +0000" stop="20240906110103 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906110103 +0000" stop="20240906110104 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906110104 +0000" stop="20240906115804 +0000" channel="GrecaTV">
+    <title lang="el"> Hot, Ontario Political Summer.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906115804 +0000" stop="20240906115806 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906115806 +0000" stop="20240906115816 +0000" channel="GrecaTV">
+    <title lang="el">120.Presents.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906115816 +0000" stop="20240906125010 +0000" channel="GrecaTV">
+    <title lang="el">Μύκονος Το νησί των ανέμων και της ελευθερίας που διατηρεί την ομορφιά του Χωρίς Χάρτη.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906125010 +0000" stop="20240906125011 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906125011 +0000" stop="20240906125038 +0000" channel="GrecaTV">
+    <title lang="el">Halvas Olympos H Amygdalo-Vanilla-Cocoa 27sec WEB 022824 Bill Fatsis.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906125038 +0000" stop="20240906125054 +0000" channel="GrecaTV">
+    <title lang="el">Freedom for Addiction Aurora(Final)-v2.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906125054 +0000" stop="20240906125254 +0000" channel="GrecaTV">
+    <title lang="el">OLD MILL AD draft1.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906125254 +0000" stop="20240906125256 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906125256 +0000" stop="20240906125306 +0000" channel="GrecaTV">
+    <title lang="el">120.Presents.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906125306 +0000" stop="20240906130353 +0000" channel="GrecaTV">
+    <title lang="el">Γαλλία Νέος πρωθυπουργός ο Μισέλ Μπαρνιέ.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906130353 +0000" stop="20240906131200 +0000" channel="GrecaTV">
+    <title lang="el">Όλοι Μαζί Μπορούμε Μεγαλειώδης συναυλία στο Παναθηναϊκό Στάδιο Βραδινό Δελτίο 05 09 2024.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906131200 +0000" stop="20240906131202 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906131202 +0000" stop="20240906131219 +0000" channel="GrecaTV">
+    <title lang="el">Colorful w text and KF music.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906131219 +0000" stop="20240906131240 +0000" channel="GrecaTV">
+    <title lang="el">Copy (2).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906131240 +0000" stop="20240906131618 +0000" channel="GrecaTV">
+    <title lang="el">Φοβάμαι μη σε χάσω (Πως θα περάσει η βραδυά) – Γ. Παπαϊωάννου - Α. Αγγελόπουλου, 1951.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906131618 +0000" stop="20240906132004 +0000" channel="GrecaTV">
+    <title lang="el">ΔΕ ΔΙΝΕΙΣ ΣΗΜΑΣΙΑ ΠΙΑ ΓΙΑ ΜΕΝΑ (You don't matter about me anymore).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906132004 +0000" stop="20240906132505 +0000" channel="GrecaTV">
+    <title lang="el">Αδυνάτισσα ο καημένος – Κ. Μπέζου ή Α. Κωστή, 1931.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906132505 +0000" stop="20240906132828 +0000" channel="GrecaTV">
+    <title lang="el">KΑΝΕ ΚΟΥΡΑΓΙΟ ΚΑΡΔΙΑ ΜΟΥ (KANE KOYRAGEO KARDEA MOU - Have courage my heart).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906132828 +0000" stop="20240906133140 +0000" channel="GrecaTV">
+    <title lang="el">Ο ΚΑΨΟΥΡΗΣ (KAPSOURIS - MAN IN LOVE).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906133140 +0000" stop="20240906133526 +0000" channel="GrecaTV">
+    <title lang="el">Yesterday in the late afternoon).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906133526 +0000" stop="20240906133853 +0000" channel="GrecaTV">
+    <title lang="el">Μεσ' την πολύ σκοτούρα μου (Τα μάτια σου τ' αράπικα).mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906133853 +0000" stop="20240906134208 +0000" channel="GrecaTV">
+    <title lang="el">ΤΟ ΜΙΝΟΡΕ ΤΗΣ ΤΑΒΕΡΝΑΣ, 1939, ΠΑΝΑΓΙΩΤΗΣ ΤΟΥΝΤΑΣ, ΣΤΡΑΤΟΣ ΠΑΓΙΟΥΜΤΖΗΣ.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906134208 +0000" stop="20240906134540 +0000" channel="GrecaTV">
+    <title lang="el">Τζεμιλέ – Εμμ. Χιώτη, 1947.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906134540 +0000" stop="20240906134610 +0000" channel="GrecaTV">
+    <title lang="el">CLA-For Women.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906134610 +0000" stop="20240906134640 +0000" channel="GrecaTV">
+    <title lang="el">HCLA Greek Community Toronto G-City for Senior.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906134640 +0000" stop="20240906134734 +0000" channel="GrecaTV">
+    <title lang="el">Aug 30 2024.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  <programme start="20240906134734 +0000" stop="20240906134739 +0000" channel="GrecaTV">
+    <title lang="el">68.Greca Unites Greeks Worldwide.mp4</title>
+    <desc lang="el"></desc>
+  </programme>
+  </tv>
